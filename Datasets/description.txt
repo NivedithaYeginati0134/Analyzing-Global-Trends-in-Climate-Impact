@@ -1,23 +1,20 @@
-Here are the side headings and a one-line description for each of the datasets you mentioned, based on common types of data these filenames suggest:
-
 Annual Average Temperatures by Country
-
 Description: Contains data on the yearly average temperatures recorded per country, providing insights into climate trends over time.
+
 Asthma Prevalence
-
 Description: Details the prevalence of asthma cases per 100 people, segmented by country, to analyze health outcomes related to environmental factors.
+
 Averaged Sea Level Data
-
 Description: Compiles measurements of global sea level changes over the years, crucial for studying impacts of climate change on oceanic coastlines.
+
 Electricity Source
-
 Description: Outlines the breakdown of electricity generation by source (renewable vs non-renewable) for each country, highlighting shifts towards sustainable energy.
+
 GDP
-
 Description: Lists Gross Domestic Product by country, providing an economic perspective that can be correlated with environmental and energy data.
+
 Population
-
 Description: Offers population figures for various countries, essential for normalizing other data sets like CO2 emissions and energy consumption per capita.
-Updated CO2 Emissions Data
 
+Updated CO2 Emissions Data
 Description: Features updated records of carbon dioxide emissions per capita by country, reflecting each nation's contribution to global greenhouse gas emissions.
